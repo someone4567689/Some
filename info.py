@@ -128,7 +128,7 @@ SEASONS = [f"season {i}" for i in range(1, 10)]
 START_IMG = (
     environ.get(
         "START_IMG",
-        "https://envs.sh/e2T.jpg https://envs.sh/e2A.jpg https://envs.sh/e2_.jpg https://envs.sh/e2G.jpg ",
+        "https://envs.sh/e2T.jpg https://envs.sh/e2A.jpg https://envs.sh/e2_.jpg https://envs.sh/e2G.jpg",
     )
 ).split()
 FORCESUB_IMG = environ.get("FORCESUB_IMG", "https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg")
