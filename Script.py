@@ -1,10 +1,12 @@
 
 
 class script(object):
-    START_TXT = """ʜᴇʏ {}😍/n
-➢ ᴍʏ ɴᴀᴍᴇ ɪꜱ @MovixNest_bot
-➢ ɪ ᴀᴍ Pʀᴇ𝕄ɪᴜᴍ ᴍᴏᴠɪᴇꜱ/ꜱᴇʀɪᴇꜱ ʙᴏᴛ
-<blockquote>❤️‍🔥 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/MovixNest">MovixNest &lt;/&gt;</a></blockquote>"""
+    START_TXT = """<b>Hᴇʏ {}🍁\n
+𒊹︎︎︎ ᴍʏ ɴᴀᴍᴇ ɪꜱ @MovixNest_bot
+𒊹︎︎︎ ɪ ᴀᴍ Pʀᴇᴍɪᴜᴍ ᴍᴏᴠɪᴇꜱ/ꜱᴇʀɪᴇꜱ ʙᴏᴛ
+
+
+<blockquote>❤️‍🔥  ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/MovixNest">MovixNest &lt;/&gt;</a></blockquote>"""
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
 
     TELE_TXT = """<blockquote><b>/id ɢᴇᴛ ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ. 🆔</b></blockquote>
@@ -18,7 +20,7 @@ class script(object):
 ᴛʜᴇɴ ʀᴇᴘʟʏ ᴡɪᴛʜ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ...</b></blockquote>"""
 
     FORCESUB_TEXT = """<b>
-ʏᴏᴜ ᴅᴏ ɴᴏᴛ ℍᴀᴠᴇ ᴊᴏɪɴ ᴍʏ ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ ғɪʀsᴛ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ.
+ʏᴏᴜ ᴅᴏ ɴᴏᴛ Hᴀᴠᴇ ᴊᴏɪɴ ᴍʏ ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ ғɪʀsᴛ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ.
 
 ᴀғᴛᴇʀ ᴛʜᴀᴛ, ᴛʀʏ ᴀᴄᴄᴇssɪɴɢ ᴛʜᴀᴛ ᴍᴏᴠɪᴇ ᴛʜᴇɴ, ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ "ᴛʀʏ ᴀɢᴀɪɴ" ʙᴜᴛᴛᴏɴ.
     </b>"""
@@ -71,8 +73,6 @@ sᴜᴄᴄᴇssғᴜʟʟʏ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ"""
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v-3.1.2 [ Sᴛᴀʙʟᴇ ]</code>
 
-If there is an error, ask in the support group @Jisshu_support</b>"""
-
     STATUS_TXT = """<b><u>♻️ ʙᴏᴛ ᴅᴀᴛᴀʙᴀsᴇ </u>
 
 » ᴛᴏᴛᴀʟ ᴜsᴇʀs - <code>{}</code>
@@ -92,8 +92,8 @@ If there is an error, ask in the support group @Jisshu_support</b>"""
 
     NEW_USER_TXT = """<b>#New_User {}
 
-≈ ɪᴅ:- <code>{}</code>
-≈ ɴᴀᴍᴇ:- {}</b>"""
+≈ 🪪ɪᴅ:- <code>{}</code>
+≈ 🔠ɴᴀᴍᴇ:- {}</b>"""
 
     NEW_GROUP_TXT = """#New_Group {}
 
@@ -124,7 +124,9 @@ User - {}"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
-    NO_RESULT_TXT = """<b>ᴛʜɪs ᴍᴇssᴀɢᴇ ɪs ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ ᴏʀ ᴀᴅᴅᴇᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ 🙄</b>"""
+    NO_RESULT_TXT = """<b>😿ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ...
+    
+🍿 ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛʜɪs ᴍᴏᴠɪᴇ ᴏʀ ᴡᴇʙsᴇʀɪᴇs sᴇɴᴅ ɪᴛ's ɴᴀᴍᴇ ɪɴ ᴏᴜʀ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ</b>"""
 
     I_CUDNT = """🤧 𝗛𝗲𝗹𝗹𝗼 {}
 
@@ -134,9 +136,11 @@ User - {}"""
 
 𝗜 𝗰𝗼𝘂𝗹𝗱𝗻'𝘁 𝗳𝗶𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝘁𝗼 𝘁𝗵𝗮𝘁 😞... 𝗰𝗵𝗲𝗰𝗸 𝘆𝗼𝘂𝗿 𝘀𝗽𝗲𝗹𝗹𝗶𝗻𝗴."""
 
-    CUDNT_FND = """🤧 𝗛𝗲𝗹𝗹𝗼 {}
+    CUDNT_FND = """<b>Mr. {}
 
-𝗜 𝗰𝗼𝘂𝗹𝗱𝗻'𝘁 𝗳𝗶𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝘁𝗼 𝘁𝗵𝗮𝘁 𝗱𝗶𝗱 𝘆𝗼𝘂 𝗺𝗲𝗮𝗻 𝗮𝗻𝘆 𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲𝘀𝗲 ?? 👇"""
+I ᴄᴏᴜʟᴅɴ'ᴛ ғɪɴᴅ ᴀɴʏᴛʜɪɴɢ ᴛᴏ ᴛʜᴀᴛ 
+
+Dɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏғ ᴛʜᴇꜱᴇ</b>"""
 
     FONT_TXT = """<b>ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴍᴏᴅᴇ ᴛᴏ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ꜰᴏɴᴛs sᴛʏʟᴇ, ᴊᴜsᴛ sᴇɴᴅ ᴍᴇ ʟɪᴋᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ
 
