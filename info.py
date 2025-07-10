@@ -29,7 +29,7 @@ ADMINS = [
 OWNER_USERNAME = environ.get(
     "OWNER_USERNAME", "eren645"
 )  # without @ or https://t.me/
-USERNAME = environ.get("USERNAME", "eren645")  # ADMIN USERNAME
+USERNAME = environ.get("USERNAME", "")  # ADMIN USERNAME
 
 # Database Channel
 CHANNELS = [
@@ -40,8 +40,8 @@ CHANNELS = [
 # ForceSub Channel & Log Channels
 AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1001648037641"))
 AUTH_REQ_CHANNEL = int(environ.get("AUTH_REQ_CHANNEL", "-1002873610694"))
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "0"))
-LOG_API_CHANNEL = int(environ.get("LOG_API_CHANNEL", "-1002789122645"))
+LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002789122645"))
+LOG_API_CHANNEL = int(environ.get("LOG_API_CHANNEL", "0"))
 LOG_VR_CHANNEL = int(environ.get("LOG_VR_CHANNEL", "0"))
 
 # MongoDB
@@ -55,7 +55,7 @@ COLLECTION_NAME = environ.get("COLLECTION_NAME", "jisshu")
 # Other Channel's
 SUPPORT_GROUP = int(environ.get("SUPPORT_GROUP", "2824228432"))
 DELETE_CHANNELS = int(environ.get("DELETE_CHANNELS", "0"))
-request_channel = environ.get("REQUEST_CHANNEL", "-1002662438545")
+request_channel = environ.get("REQUEST_CHANNEL", "0")
 REQUEST_CHANNEL = (
     int(request_channel)
     if request_channel and id_pattern.search(request_channel)
