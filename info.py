@@ -41,7 +41,7 @@ CHANNELS = [
 AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1001648037641"))
 AUTH_REQ_CHANNEL = int(environ.get("AUTH_REQ_CHANNEL", "-1002873610694"))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002789122645"))
-LOG_API_CHANNEL = int(environ.get("LOG_API_CHANNEL", ""))
+LOG_API_CHANNEL = int(environ.get("LOG_API_CHANNEL", "-1002789122645"))
 LOG_VR_CHANNEL = int(environ.get("LOG_VR_CHANNEL", ""))
 
 # MongoDB
