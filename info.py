@@ -24,7 +24,7 @@ PORT = environ.get("PORT", "8082")
 # Owners
 ADMINS = [
     int(admin) if id_pattern.search(admin) else admin
-    for admin in environ.get("ADMINS", "6725874739").split()
+    for admin in environ.get("ADMINS", "6725874739 -1001666034664").split()
 ]
 OWNER_USERNAME = environ.get(
     "OWNER_USERNAME", "eren645"
@@ -171,7 +171,7 @@ if "DYNO" in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("FQDN", "")
+URL = environ.get("FQDN", "https://bold-josey-priyanshukumawat2k25-db51af21.koyeb.app/")
 
 # Commands
 admin_cmds = [
