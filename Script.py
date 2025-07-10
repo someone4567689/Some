@@ -2,11 +2,10 @@
 
 class script(object):
     START_TXT = """<b>Hᴇʏ {}🍁\n
-𒊹︎︎︎ ᴍʏ ɴᴀᴍᴇ ɪꜱ @MovixNest_bot
-𒊹︎︎︎ ɪ ᴀᴍ Pʀᴇᴍɪᴜᴍ ᴍᴏᴠɪᴇꜱ/ꜱᴇʀɪᴇꜱ ʙᴏᴛ
+★ ᴍʏ ɴᴀᴍᴇ ɪꜱ @MovixNest_bot
+★ ɪ ᴀᴍ Pʀᴇᴍɪᴜᴍ ᴍᴏᴠɪᴇꜱ/ꜱᴇʀɪᴇꜱ ʙᴏᴛ
+★ I ᴀᴍ 24/7 Aᴠᴀɪʟᴀʙʟᴇ !!</b>"""
 
-
-<blockquote>❤️‍🔥  ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/MovixNest">MovixNest &lt;/&gt;</a></blockquote>"""
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
 
     TELE_TXT = """<blockquote><b>/id ɢᴇᴛ ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ. 🆔</b></blockquote>
