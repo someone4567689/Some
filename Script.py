@@ -71,7 +71,8 @@ sᴜᴄᴄᴇssғᴜʟʟʏ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ"""
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v-3.1.2 [ Sᴛᴀʙʟᴇ ]</code>
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v-3.1.2 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+
 
     STATUS_TXT = """<b><u>♻️ ʙᴏᴛ ᴅᴀᴛᴀʙᴀsᴇ </u>
 
@@ -92,8 +93,8 @@ sᴜᴄᴄᴇssғᴜʟʟʏ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ"""
 
     NEW_USER_TXT = """<b>#New_User {}
 
-≈ 🪪ɪᴅ:- <code>{}</code>
-≈ 🔠ɴᴀᴍᴇ:- {}</b>"""
+≈ 🪪 ɪᴅ:- <code>{}</code>
+≈ 🔠 ɴᴀᴍᴇ:- {}</b>"""
 
     NEW_GROUP_TXT = """#New_Group {}
 
@@ -118,7 +119,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}</b>"""
+    FILE_CAPTION = """<blockquote><b><a href='https://t.me/+ICBlfDBn8XwzNmVl'>{file_caption}</a></blockquote> </b>"""
 
     ALRT_TXT = """ᴡʜᴀᴛ ᴀʀᴇ ʏᴏᴜ sᴇᴀʀᴄʜɪɴɢ !?"""
 
